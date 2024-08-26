@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋
 
+## I'm Torin.
+
+### 💻 &nbsp;About Me 
+
+- 🎓 &nbsp; I'm a recent Computer Science graduate from Stony Brook University.
+- 🤔 &nbsp; I'm passionate about applying my technical skills to solve real-world problems and contribute to innovative projects.
+- 🥁 🏋️ &nbsp; In my free time, I like to play the drums and go to the gym. 🥁 🏋️
+
+##  🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/torin-mcnally/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:mcnallyto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 <!--
-**TZMCNALLY/TZMCNALLY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
