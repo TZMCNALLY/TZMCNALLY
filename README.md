@@ -2,8 +2,6 @@
 
 ## I'm Torin.
 
-### 💻 &nbsp;About Me 
-
 - &nbsp; I'm a recent Computer Science graduate from Stony Brook University. 🎓
 - &nbsp; I'm passionate about applying my technical skills to solve real-world problems and contribute to innovative projects. 🏡
 - &nbsp; In my free time, I like to play the drums and go to the gym. 🥁 🏋️
