@@ -8,7 +8,7 @@
 - &nbsp; I'm passionate about applying my technical skills to solve real-world problems and contribute to innovative projects. 🏡
 - &nbsp; In my free time, I like to play the drums and go to the gym. 🥁 🏋️
 
-##  🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/torin-mcnally/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
