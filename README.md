@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🎮 About Me:
 I've enjoyed game development ever since I built my first project, "Chains of Fury". <br><br>Following its success and my contributions to my university’s game engine, I discovered a strong interest in low-level systems and backend development. <br><br>Now, I’m focused on mastering C and C++, particularly within the context of high-performance game systems.<br><br>I’m now actively seeking opportunities in backend game development, where I can apply my skills and continue to grow in this field.
 
 
