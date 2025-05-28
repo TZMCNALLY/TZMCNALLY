@@ -2,7 +2,7 @@
 I've enjoyed game development ever since I built my first project, "Chains of Fury".<br><br>Following its success and my contributions to my university’s game engine, I discovered a strong interest in low-level systems and backend development.<br><br>Now, I’m focused on mastering C++, particularly within the context of high-performance game systems.<br><br>I’m now actively seeking opportunities in backend game development, where I can apply my skills and continue to grow in this field.
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torin-mcnally/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mcnallyto@gmail.com) 
 
 # 💻 Tech Stack:
