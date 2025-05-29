@@ -1,5 +1,5 @@
 # 💫 About Me:
-My journey in game development began with my first project, *Chains of Fury*. <br><br>Following its success and my contributions to my university’s game engine, I discovered a strong interest in low-level systems and backend development.<br><br>Currently, I’m focused on mastering C++ in the context of high-performance game systems.<br><br>I’m actively seeking opportunities in backend game development, where I can apply my skills and continue to grow in this field.
+My journey in game development began with my first project, *Chains of Fury*. <br><br>Following its success and my contributions to my university’s game engine, I discovered a strong interest in low-level systems and backend development.<br><br>Currently, I’m focused on mastering C++ in the context of high-performance game systems.<br><br>I’m actively seeking opportunities in backend game development, where I can apply my skills and grow in this exciting field.
 
 
 ## 🌐 Socials:
