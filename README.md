@@ -1,5 +1,5 @@
 # 💫 About Me:
-My journey in game development began with *Chains of Fury*, a 2D RPG action game I created with two peers during a game programming course. <br><br>Following its success and my contributions to my university’s game engine, I discovered a passion for low-level systems and backend development.<br><br>Currently, I’m focused on mastering C++ in the context of high-performance gaming software.<br><br>I’m actively seeking full-time opportunities in software engineering, where I can apply my skills and grow in this exciting field.
+My journey in game development began with *Chains of Fury*, a 2D action game I created with two peers during a game programming course. <br><br>Following its success and my contributions to my university’s game engine, I discovered a passion for low-level systems and backend development.<br><br>Currently, I’m focused on mastering C++ in the context of high-performance gaming software.<br><br>I’m actively seeking full-time opportunities in software engineering, where I can apply my skills and grow in this exciting field.
 
 
 ## 🌐 Socials:
